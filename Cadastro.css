@@ -31,6 +31,8 @@
      width: 120px;
      align-self: center;  
      justify-content: center;  
+     justify-self: center;
+     margin-left: 25%;
 }
 
 .formulario input {
@@ -44,3 +46,4 @@
     font-size: 20px;
 
 }
+

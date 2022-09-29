@@ -20,8 +20,14 @@ body {
 }
 
 .header ul #aqui {
+    /* font-weight: 1000; */
+    /* color: #32b9cd */
+}
+.header ul #aqui2 {
     font-weight: 1000;
-    color: #32b9cd
+    /* color: #32b9cd */
+    color: #e3b062;
+
 }
 
 ul {
